@@ -1,12 +1,9 @@
-<div align="center" style="font-size: 15px">
-   <p align="center">
+<p align="center">
+  <img src="https://github.com/aktsasori/aktsasori/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/aktsasori/aktsasori/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</p>
 
-
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=cyber-eternal&show_icons=true&theme=dark&title_color=27d545&count_private=true&hide_title=true&hide_rank=false"></img> -->
-
-![](https://raw.githubusercontent.com/aktsasori/aktsasori/output/generated/overview.svg) ![](https://raw.githubusercontent.com/aktsasori/aktsasori/output/generated/languages.svg)
-
-
-  </p>
-  
-</div>
+<p align="center">
+  <img src="https://github.com/aktsasori/aktsasori/blob/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://github.com/aktsasori/aktsasori/blob/master/generated/languages.svg#gh-light-mode-only" />
+</p>
